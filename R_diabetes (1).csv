@@ -1,0 +1,101 @@
+Diabetes,Gender,Age,PhysActiveDays,Marijuana,SexEver,SameSex,DiabetesAge,SmokeNow,BMI_WHO,BMI,ID,Alcohol12PlusYr,SleepTrouble
+No,Female,29,6,No,No,Yes,46,No,Normal weight,32.162897954570894,1,Yes,No
+Yes,Female,21,1,Yes,Yes,No,57,Yes,Underweight,26.885586324203437,2,No,No
+Yes,Male,43,5,No,Yes,No,55,Yes,Underweight,39.248167474378576,3,No,Yes
+No,Male,39,3,Yes,Yes,Yes,24,No,Obesity,23.720527805022662,4,No,No
+No,Male,56,6,No,No,No,53,Yes,Underweight,34.79407765345336,5,Yes,No
+No,Female,71,6,Yes,No,Yes,25,Yes,Underweight,32.04063802838106,6,No,Yes
+Yes,Male,42,2,Yes,Yes,No,67,No,Overweight,31.89493257208703,7,No,Yes
+Yes,Female,75,2,Yes,Yes,Yes,24,No,Overweight,35.43423794271446,8,No,No
+Yes,Female,34,6,No,No,Yes,74,Yes,Underweight,27.201636969906794,9,Yes,No
+No,Male,70,0,Yes,Yes,No,64,No,Obesity,32.21438105089421,10,Yes,No
+Yes,Male,37,6,No,Yes,Yes,77,Yes,Normal weight,38.29232233345706,11,No,No
+Yes,Female,61,3,Yes,Yes,No,73,No,Overweight,26.95194405437578,12,No,Yes
+Yes,Male,30,1,No,Yes,Yes,68,Yes,Normal weight,24.7083578064322,13,No,No
+Yes,Male,40,3,Yes,Yes,No,34,No,Underweight,38.34802655515048,14,Yes,Yes
+Yes,Male,27,5,No,Yes,No,59,Yes,Normal weight,36.99617493899517,15,Yes,No
+No,Male,20,1,No,No,No,32,No,Underweight,26.683541667583142,16,Yes,Yes
+No,Male,61,2,Yes,Yes,Yes,44,No,Obesity,25.113343159092658,17,No,No
+No,Female,67,0,Yes,Yes,Yes,56,Yes,Overweight,25.76369168107236,18,Yes,No
+Yes,Male,40,2,No,Yes,No,43,Yes,Obesity,21.983380710949803,19,Yes,No
+No,Male,38,3,Yes,Yes,No,63,Yes,Normal weight,26.961474472380594,20,Yes,No
+Yes,Female,52,3,No,No,Yes,64,Yes,Obesity,21.071971495274664,21,No,No
+No,Female,21,2,Yes,Yes,Yes,44,No,Underweight,18.63806044207441,22,Yes,No
+No,Male,48,1,Yes,Yes,Yes,41,No,Obesity,32.80670741930077,23,Yes,No
+Yes,Male,69,5,Yes,No,No,43,No,Underweight,39.28566054643461,24,No,Yes
+No,Male,30,2,No,Yes,Yes,31,Yes,Obesity,29.488306450063646,25,Yes,Yes
+No,Male,18,1,No,No,No,22,No,Underweight,37.34923360356707,26,No,No
+Yes,Female,41,5,Yes,Yes,Yes,38,Yes,Normal weight,22.17998731926232,27,No,No
+Yes,Female,25,6,Yes,Yes,No,65,Yes,Overweight,29.76533181644865,28,Yes,No
+Yes,Male,57,0,No,Yes,Yes,72,Yes,Obesity,22.828008547550407,29,Yes,No
+No,Female,56,6,No,Yes,Yes,73,Yes,Normal weight,33.115413488579435,30,Yes,No
+Yes,Female,47,1,Yes,No,Yes,33,No,Normal weight,27.83801563820733,31,Yes,Yes
+Yes,Female,75,6,No,No,No,40,No,Normal weight,32.921460493184306,32,Yes,Yes
+No,Male,27,0,Yes,Yes,Yes,60,No,Normal weight,27.902147093567805,33,No,Yes
+Yes,Male,41,6,Yes,Yes,No,55,Yes,Underweight,28.34026405594193,34,No,No
+Yes,Female,42,3,No,Yes,No,40,No,Overweight,35.292082201622385,35,Yes,Yes
+No,Male,61,1,No,Yes,Yes,28,Yes,Underweight,30.144736163563916,36,No,Yes
+Yes,Male,51,2,Yes,Yes,Yes,51,No,Normal weight,32.291602886178055,37,No,No
+Yes,Female,34,5,Yes,No,No,55,Yes,Normal weight,29.606728826043582,38,No,Yes
+No,Female,40,0,Yes,Yes,Yes,74,No,Obesity,30.363972329479527,39,No,Yes
+Yes,Male,39,4,No,No,Yes,31,No,Normal weight,35.12095639566816,40,Yes,Yes
+No,Female,70,0,No,No,No,24,Yes,Normal weight,24.029916878400464,41,No,Yes
+Yes,Male,67,3,Yes,Yes,No,40,Yes,Obesity,18.74617749291497,42,Yes,Yes
+No,Male,46,3,Yes,Yes,No,24,Yes,Underweight,25.796188692800946,43,No,Yes
+Yes,Female,48,3,No,No,Yes,69,No,Normal weight,32.2111363904358,44,No,Yes
+Yes,Male,18,0,Yes,Yes,Yes,59,Yes,Normal weight,37.425110854872926,45,No,No
+No,Male,53,2,Yes,No,No,25,No,Normal weight,25.360890921940072,46,No,No
+No,Female,78,2,No,No,Yes,64,No,Normal weight,36.811103782516575,47,Yes,Yes
+No,Female,40,0,Yes,No,Yes,33,No,Underweight,21.445211682394753,48,No,Yes
+No,Male,41,2,Yes,Yes,No,19,No,Underweight,34.53159939350331,49,Yes,No
+No,Female,73,4,Yes,Yes,No,75,Yes,Obesity,39.89918047830282,50,No,Yes
+No,Male,77,2,No,No,No,35,Yes,Overweight,39.65891404391823,51,No,No
+Yes,Male,74,4,Yes,Yes,Yes,57,No,Obesity,32.43194296941675,52,No,Yes
+Yes,Male,43,0,No,No,No,76,No,Overweight,34.16082523423119,53,No,Yes
+Yes,Male,25,1,No,Yes,No,63,No,Normal weight,36.92071768870524,54,Yes,Yes
+No,Male,19,4,Yes,Yes,No,30,Yes,Obesity,31.982719678253744,55,Yes,Yes
+No,Female,53,6,Yes,No,Yes,43,No,Overweight,21.75070293010292,56,Yes,Yes
+No,Male,29,6,Yes,No,No,42,Yes,Overweight,38.585924187243464,57,Yes,No
+No,Female,77,4,Yes,Yes,Yes,27,No,Normal weight,37.5448035549101,58,Yes,No
+Yes,Male,50,6,No,Yes,No,54,Yes,Obesity,19.12969817027137,59,Yes,Yes
+No,Male,57,5,Yes,Yes,No,32,No,Obesity,22.83569032301152,60,No,Yes
+No,Male,70,4,No,Yes,Yes,53,No,Underweight,20.335997181375724,61,No,No
+No,Male,49,1,Yes,No,No,56,Yes,Normal weight,35.2479449088013,62,No,No
+Yes,Male,55,0,No,No,Yes,20,No,Normal weight,29.45171511174255,63,No,No
+Yes,Male,35,1,No,Yes,Yes,46,No,Overweight,25.28308433014669,64,No,Yes
+Yes,Male,28,4,No,No,Yes,63,No,Normal weight,37.63702745602204,65,Yes,No
+No,Female,32,5,No,Yes,No,52,Yes,Underweight,37.8262663509249,66,No,Yes
+No,Male,49,2,No,Yes,Yes,68,Yes,Overweight,19.398822564677907,67,No,Yes
+No,Female,31,3,Yes,Yes,Yes,74,Yes,Underweight,20.849434943023862,68,No,No
+Yes,Female,20,6,No,Yes,No,31,No,Normal weight,19.141471441240995,69,No,No
+No,Female,45,3,Yes,No,No,54,Yes,Obesity,18.83762762964664,70,No,Yes
+Yes,Male,23,2,Yes,Yes,No,23,No,Normal weight,25.076228872409704,71,Yes,Yes
+No,Female,54,5,Yes,Yes,No,61,No,Overweight,27.532903673501345,72,No,Yes
+Yes,Male,18,4,Yes,Yes,No,58,No,Obesity,26.58414539194814,73,Yes,Yes
+No,Female,38,6,Yes,No,No,61,Yes,Normal weight,36.682511373383825,74,No,Yes
+No,Male,69,5,No,Yes,No,66,No,Obesity,34.015993271506844,75,Yes,Yes
+Yes,Female,29,4,No,Yes,No,73,Yes,Overweight,32.78612828514719,76,No,Yes
+No,Female,56,6,Yes,Yes,No,69,Yes,Overweight,24.047301489480475,77,No,No
+Yes,Male,45,1,Yes,No,No,79,No,Underweight,26.58254779252016,78,Yes,Yes
+Yes,Female,52,3,No,No,Yes,79,No,Underweight,25.667694180475984,79,Yes,Yes
+Yes,Male,47,2,No,Yes,No,33,Yes,Obesity,32.24638511375929,80,No,Yes
+Yes,Male,29,1,No,No,Yes,47,No,Normal weight,34.83801043463146,81,Yes,Yes
+Yes,Male,77,4,Yes,Yes,Yes,74,No,Underweight,39.779443473898404,82,Yes,Yes
+No,Female,22,2,Yes,Yes,No,60,No,Underweight,31.33969247956783,83,No,No
+No,Male,31,0,Yes,Yes,Yes,74,No,Normal weight,18.55838594141576,84,No,No
+Yes,Male,53,3,Yes,Yes,No,57,No,Obesity,39.195005012030734,85,No,Yes
+No,Female,50,4,Yes,No,No,51,Yes,Obesity,25.888469708413602,86,Yes,No
+No,Male,34,6,Yes,Yes,No,22,No,Underweight,26.72623413250608,87,No,No
+No,Male,19,4,Yes,No,No,34,No,Obesity,32.100000709610725,88,No,No
+No,Female,64,6,Yes,No,No,58,Yes,Normal weight,38.20081545021924,89,Yes,Yes
+Yes,Male,36,1,No,Yes,No,,No,Normal weight,31.519878705471736,90,No,Yes
+No,Female,22,3,No,Yes,Yes,72,No,Normal weight,29.360337102052725,91,No,No
+Yes,Male,25,6,Yes,No,Yes,50,Yes,Normal weight,24.455153746707495,92,Yes,No
+No,Male,44,2,Yes,No,No,34,Yes,Normal weight,38.27683923072343,93,Yes,Yes
+No,Male,20,2,No,Yes,No,47,Yes,Normal weight,30.158133891830012,94,No,No
+Yes,Male,55,4,No,No,No,63,No,Underweight,21.356045649522017,95,No,No
+Yes,Male,30,4,No,No,Yes,57,Yes,Overweight,26.394010098918415,96,No,Yes
+Yes,Female,36,0,Yes,Yes,Yes,58,Yes,Obesity,19.414401424103332,97,No,Yes
+Yes,Male,59,5,No,Yes,Yes,48,Yes,Overweight,27.522153619218894,98,No,Yes
+Yes,Male,58,6,Yes,No,Yes,77,No,Normal weight,30.702417859917908,99,Yes,Yes
+Yes,Male,27,2,No,No,No,68,Yes,Normal weight,31.832519421573753,100,Yes,Yes
